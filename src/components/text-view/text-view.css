@@ -12,6 +12,7 @@
     height: 90%;
     padding-left: 25px;
     color: dimgrey;
-    font-size: 10pt;
+    font-size: 8pt;
+    font-family: "Consolas", "Lucida Console", "Monaco", "Menlo", monospace;
     border-left: 1px solid gainsboro;
 }

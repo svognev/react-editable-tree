@@ -1,5 +1,5 @@
-import React from 'react';
-import './editable-item.css';
+import React from "react";
+import "./editable-item.css";
 
 const EditableItem = (props) => {
     const { title, changeTitle, removeNode, addChild } = props;

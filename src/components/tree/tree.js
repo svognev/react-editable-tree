@@ -1,9 +1,9 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 import TreeNode from "../tree-node";
 import AddButton from "../add-button";
 import ControlPanel from "../control-panel";
 import TextView from "../text-view";
-import './tree.css';
+import "./tree.css";
 
 
 class Tree extends Component {

@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import EditableItem from "../editable-item";
 import "./tree-node.css";
 

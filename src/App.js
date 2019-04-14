@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import './App.css';
+import React, { Component } from "react";
+import "./App.css";
 import Tree from "./components/tree";
 import { DEFAULT_NODES } from "./constants";
 

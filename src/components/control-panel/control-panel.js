@@ -1,5 +1,5 @@
-import React from 'react';
-import './control-panel.css';
+import React from "react";
+import "./control-panel.css";
 
 const ControlPanel = (props) => {
     const { hasSaved, saveState, loadState } = props;

@@ -42,3 +42,7 @@ textarea {
     border: none;
     font-family: "Verdana", "Tahoma", "Arial", sans-serif;
 }
+
+::selection {
+    background-color: #F3E5AB;
+}
