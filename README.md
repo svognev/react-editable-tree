@@ -1,4 +1,4 @@
-## Editable React Tree
+## React Editable Tree
 
 An editable React treeview with the ability to add and remove nodes as well as change their values.
 
